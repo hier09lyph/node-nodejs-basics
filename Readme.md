@@ -1,4 +1,4 @@
-# Node.js basics (136/206)
+# Node.js basics (176/206)
 ## Basic Scope
 # File system (src/fs)
 - [x] +6 create.js implemented properly
@@ -23,8 +23,8 @@
 - [x] +10 decompress.js implemented properly
 ## Advanced Scope
 # Worker Threads (src/wt)
-- [ ] +10 worker.js implemented properly
-- [ ] +30 main.js implemented properly
+- [x] +10 worker.js implemented properly
+- [x] +30 main.js implemented properly
 # Child Processes (src/cp)
 - [ ] +10 spawns child process
 - [ ] +10 child process stdin receives input from master process stdin
